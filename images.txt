@@ -1,3 +1,4 @@
+ubuntu:22.04
 nginx:1.27.0
 --platform=linux/arm64/v8 mysql:8.0.31
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
