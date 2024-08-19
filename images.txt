@@ -10,3 +10,4 @@ redis:7.2.4
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 justsong/one-api
+neo4j:5-community
