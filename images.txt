@@ -1,3 +1,5 @@
+node:20-slim
+python:3.11-slim
 ubuntu:22.04
 nginx:1.27.0
 --platform=linux/arm64/v8 mysql:8.0.31
